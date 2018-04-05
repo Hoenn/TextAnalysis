@@ -20,14 +20,13 @@ The primary subjects for this project include the works: *Frankenstein* by Mary 
 - Inclusion of additional works not specified in Objective Statement
 
 ### Team
-Evan Mena | `Fill this in`
+Evan Mena | Programmer, Researcher
 
-Jesse Optiz | `Fill this in`
+Jesse Optiz | Programmer
 
 
 ### Schedule
-`Feel free to change this around, honestly the first 3 should take no time`
-- Front-end design work complete (April 12)
-- Background information researched (April 12)
+- Front-end design work complete (April 9)
+- Background information researched (April 11)
 - Text Analysis on all works complete (April 16)
 - Front-end work complete (May 1)
