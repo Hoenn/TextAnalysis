@@ -1,6 +1,8 @@
 ## Frankenstein; or, The Modern Prometheus
 `Author`: Mary Shelley
 
+`Cover Image`: [564x946](http://wwwcdn.printmag.com/wp-content/uploads/uncredited-1963-Frankenstein-Mary-Shelley-Airmont-Books-Classic-Series.jpg)
+
 `Published on` : 1 Jan 1818
 
 `Genre`: Gothic, Horror, Science Fiction
