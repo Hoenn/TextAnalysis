@@ -31,7 +31,7 @@
 
 `Quote`: "Science, my boy, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth" - Professor Lidenbrock
 
-`Info`:
+`Info`: This 1864 novel by Jules Verne follows the story of Professor Lidenbrock, along with his reluctant nephew Axel, in an adventure to a mythical subterranean world sparked by the mystery of a runic manuscript. While Verne presents a few common story elements, such as the pursuit of truth, this early science fiction novel would expand, both in depth and breadth, the topic of a subterranean world beneath the Earth. Subterranean fiction, a sub-genre of science fiction, was written about as early as Dante Alighieri's [*Divine Comedy*](http://www.gutenberg.org/files/8800/8800-h/8800-h.htm) but Verne, and other 19th century writers, would begin to shift the topic from the fantastical to pseudo-science featuring explorers and scientists reasoning and willing their way under the Earth's surface. *Journey to the Center of the Earth*'s contribution to science fiction would find its way [inspiring J.R.R Tolkien's *The Hobbit*](http://praxeology.net/unblog12-05.htm#09) as well as provide a groundwork for a young [H.P. Lovecraft](http://alangullette.com/lit/hpl/gent.htm) to build from, he is quoted as saying "many of the tales showed the literary influence of the immortal Jules."
 
 ## The Time Machine
 `Author`: H.G. Wells
@@ -48,4 +48,4 @@
 
 `Quote`: "Looking at these stars suddenly dwarfed my own troubles and all the gravities of terrestrial life" - The Time Traveller
 
-`Info`:
+`Info`: H.G. Wells is credited with both the popularization of the concept of "scientific" time travel as well as coining the now common place term "time machine". This idea that time travel is something that can be manifested through science differs greatly from the mythical presence of time travel that was present in literature. Countless works would borrow and expand on this concept, namely [Isaac Asimov](https://www.biography.com/people/isaac-asimov-9190737) whose writing would secure dozens of [Hugo](http://www.thehugoawards.org/), [Nebula](https://nebulas.sfwa.org/), and [Locus](https://locusmag.com/category/news/awards/) awards throughout his career.
