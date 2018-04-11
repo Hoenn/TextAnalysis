@@ -3,7 +3,7 @@
 
 `Cover Image`: [564x946](http://wwwcdn.printmag.com/wp-content/uploads/uncredited-1963-Frankenstein-Mary-Shelley-Airmont-Books-Classic-Series.jpg)
 
-`Link to Full-Text`: [Full Text](https://www.gutenberg.org/files/84/84-h/84-h.htm)
+`Full-Text`: [Link](https://www.gutenberg.org/files/84/84-h/84-h.htm)
 
 `Published`: 1 Jan 1818
 
@@ -21,7 +21,7 @@
 
 `Cover Image`: [375x500](https://images-na.ssl-images-amazon.com/images/I/51PIR86GBDL.jpg)
 
-`Link to Full-Text`: [Full Text](https://www.gutenberg.org/files/18857/18857-h/18857-h.htm)
+`Full-Text`: [Link](https://www.gutenberg.org/files/18857/18857-h/18857-h.htm)
 
 `Published`: 1864
 
@@ -38,7 +38,7 @@
 
 `Cover Image`: [420x640](https://d2ql0oya2738vd.cloudfront.net/products/9781480483675/covers/9781480483675-medium.jpg?1484792555)
 
-`Link to Full-Text`: [Full Text](http://www.gutenberg.org/files/35/35-0.txt)
+`Full-Text`: [Link](http://www.gutenberg.org/files/35/35-0.txt)
 
 `Published`: 1895
 
