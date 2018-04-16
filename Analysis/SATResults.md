@@ -1,5 +1,8 @@
 ## Top 4 SAT Words found in text
 
+## Source List
+https://www.vocabulary.com/lists/191545
+
 ### Frankenstein
 Inexorable 3
 Requisition 2
