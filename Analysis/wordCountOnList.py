@@ -1,6 +1,8 @@
 import sys
-
 import re
+
+#Usage
+# python wordCountOnList.py ./targetWords ./targetText
 
 def main(listPath, textPath):
     wordList = open(listPath, "r").read().split("\n")[:-1]
