@@ -39,21 +39,21 @@
 	
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-sm-1"></div>
-			<div class="col-sm-10">
+			<div class="col-sm-2"></div>
+			<div class="col-sm-8">
 				<h4 id="About">About</h4>
 				<p>The goal of this project is to provide textual analysis for full-text documents authored by a handful of the most impactful 19th century science fiction writers. Analysis will include both data summaries of word usage and sentiment analysis to profile tone to help expose discoveries on which to build a conclusion upon the similaries and differences between these now revered authors.</p>
 
 				<p>The primary subjects for this project include the works: Frankenstein by Mary Shelley (1818), Journey to the Center of the Earth by Jules Verne (1871), and The Time Machine by H.G. Wells (1895).</p>
 			</div>
-			<div class="col-sm-1"></div>
+			<div class="col-sm-2"></div>
 		</div>
 	
 		<br/>
 		
 		<div class="row">
-			<div class="col-sm-1"></div>
-			<div class="media col-sm-10">
+			<div class="col-sm-2"></div>
+			<div class="media col-sm-8">
 			  <img class="align-self-start mr-3" src="images/frankenstein.jpg" alt="Generic placeholder image" height="64" width="64">
 			  <div class="media-body">
 				<h5 class="mt-0">Frankenstein</h5>
@@ -81,18 +81,30 @@
 						<li>
 							<b>Syllables per word</b>: 1.63
 						</li>
+						<li>
+							<b>Total Words</b>: 75,199
+						</li>
+						<li>
+							<b>Vocabulary Density</b>: 0.094
+						</li>
+						<li>
+							<b>Words per Sentence</b>: 22.8
+						</li>
+						<li>
+							<b>Most Frequent Words</b>: man (132), life (115), father (113), shall (105), eyes (104)
+						</li>
 					</ul>
 				</div>
 			  </div>
 			</div>
-			<div class="col-sm-1"></div>
+			<div class="col-sm-2"></div>
 		</div>
 		
 		<br/>
 		
 		<div class="row">
-			<div class="col-sm-1"></div>
-			<div class="media col-sm-10">
+			<div class="col-sm-2"></div>
+			<div class="media col-sm-8">
 			  <img class="align-self-start mr-3" src="images/journey.jpg" alt="Generic placeholder image" height="64" width="64">
 			  <div class="media-body">
 				<h2 id="journey-to-the-center-of-the-earth">Journey to the Center of the Earth</h2>
@@ -120,18 +132,30 @@
 						<li>
 							<b>Syllables per word</b>: 1.61
 						</li>
+						<li>
+							<b>Total Words</b>: 86,056
+						</li>
+						<li>
+							<b>Vocabulary Density</b>: 0.090
+						</li>
+						<li>
+							<b>Words per Sentence</b>: 16.3
+						</li>
+						<li>
+							<b>Most Frequent Words</b>: uncle (484), said (221), professor (177), great(169)
+						</li>
 					</ul>
 				</div>
 			  </div>
 			</div>
-			<div class="col-sm-1"></div>
+			<div class="col-sm-2"></div>
 		</div>
 		
 		<br/>
 		
 		<div class="row">
-			<div class="col-sm-1"></div>
-			<div class="media col-sm-10">
+			<div class="col-sm-2"></div>
+			<div class="media col-sm-8">
 			  <img class="align-self-start mr-3" src="images/wells.jpg" alt="Generic placeholder image" height="64" width="64">
 			  <div class="media-body">
 				<h2 id="the-time-machine">The Time Machine</h2>
@@ -160,11 +184,23 @@
 						<li>
 							<b>Syllables per word</b>: 1.58
 						</li>
+						<li>
+							<b>Total Words</b>: 32,683
+						</li>
+						<li>
+							<b>Vocabulary Density</b>: 0.142
+						</li>
+						<li>
+							<b>Words per Sentence</b>: 17.1
+						</li>
+						<li>
+							<b>Most Frequent Words</b>: time (203), little (114), came (106), said (89), saw (88)
+						</li>
 					</ul>
 				</div>
 			  </div>
 			</div>
-			<div class="col-sm-1"></div>
+			<div class="col-sm-2"></div>
 		</div>
 		
 		<br/>
@@ -178,30 +214,51 @@
 				<table class="table">
 				  <thead>
 					<tr>
-					  <th scope="col">#</th>
-					  <th scope="col">These</th>
-					  <th scope="col">Are</th>
-					  <th scope="col">Statistics</th>
+					  <th scope="col"></th>
+					  <th scope="col">Frankenstein</th>
+					  <th scope="col">Journey  to the Center of the Earth</th>
+					  <th scope="col">The Time Machine</th>
+					  <!--th scope="col">Readability</th>
+					  <th scope="col">Syllables per Word</th>
+					  <th scope="col">Sentiment Score</th-->
 					</tr>
 				  </thead>
 				  <tbody>
 					<tr>
-					  <th scope="row">1</th>
-					  <td>Mark</td>
-					  <td>Otto</td>
-					  <td>@mdo</td>
+					  <th scope="row">Word Count</th>
+					  <td>75,199</td>
+					  <td>86,056</td>
+					  <td>32,683</td>
 					</tr>
 					<tr>
-					  <th scope="row">2</th>
-					  <td>Jacob</td>
-					  <td>Thornton</td>
-					  <td>@fat</td>
+					  <th scope="row">Unique Words</th>
+					  <td>7,044</td>
+					  <td>7,762</td>
+					  <td>4,636</td>
 					</tr>
 					<tr>
-					  <th scope="row">3</th>
-					  <td>Larry</td>
-					  <td>the Bird</td>
-					  <td>@twitter</td>
+					  <th scope="row">Readability*</th>
+					  <td>8.7</td>
+					  <td>7.7</td>
+					  <td>7.8</td>
+					</tr>
+					<tr>
+					  <th scope="row">Syllables per Word*</th>
+					  <td>1.63</td>
+					  <td>1.61</td>
+					  <td>1.58</td>
+					</tr>
+					<tr>
+					  <th scope="row">Vocabulary Density*</th>
+					  <td>0.094</td>
+					  <td>0.090</td>
+					  <td>0.142</td>
+					</tr>
+					<tr>
+					  <th scope="row">Word per Sentence</th>
+					  <td>22.8</td>
+					  <td>16.3</td>
+					  <td>17.1</td>
 					</tr>
 				  </tbody>
 				</table>
