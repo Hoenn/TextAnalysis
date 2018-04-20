@@ -3,7 +3,7 @@
 ## Analysis of Founders of Science Fiction
 
 ### Objective Statement
-The goal of this project is to provide textual analysis for full-text documents authored by a handful of the most impactful 19th century science fiction writers. Analysis will include both data summaries of word usage and sentiment analysis to profile tone to help expose discoveries on which to build a conclusion upon the similaries and differences between these now revered authors. 
+The goal of this project is to provide textual analysis for full-text documents authored by a handful of the most impactful 19th century science fiction writers. Analysis will include both data summaries of word usage and sentiment analysis to profile tone to help expose discoveries on which to build a conclusion upon the similarities and differences between these now revered authors. 
 
 The primary subjects for this project include the works: *Frankenstein* by Mary Shelley (1818), *Journey to the Center of the Earth* by Jules Verne (1871), and *The Time Machine* by H.G. Wells (1895).
 
