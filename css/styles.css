@@ -1,0 +1,25 @@
+.table td {
+	text-align: center;
+}
+
+
+.table td, th{
+border-top: #a78a64 solid 1px !important;
+border-bottom: #a78a64 solid 1px !important;
+}
+
+button {
+background-color: #6a6bba !important;
+border-color: #676791 !important;
+}
+
+a {
+	color: #6a6bba;
+}
+a:visited {
+	color: #648978;
+}
+body {
+	background-color: #e8d8c3;
+}
+
