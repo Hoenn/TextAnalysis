@@ -2,7 +2,6 @@
 	text-align: center;
 }
 
-
 .table td, th{
 border-top: #a78a64 solid 1px !important;
 border-bottom: #a78a64 solid 1px !important;
@@ -23,3 +22,10 @@ body {
 	background-color: #e8d8c3;
 }
 
+img.hover-shadow {
+	transition: 0.3s
+}
+
+.hover-shadow:hover {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
