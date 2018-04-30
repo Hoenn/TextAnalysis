@@ -22,6 +22,10 @@ body {
 	background-color: #e8d8c3;
 }
 
+/**nav {
+	background: #a78a64;
+}*/
+
 img.hover-shadow {
 	transition: 0.3s
 }
