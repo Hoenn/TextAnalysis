@@ -1,4 +1,4 @@
-# Project Proposal
+# Memo of Understanding
 
 ## Analysis of Founders of Science Fiction
 
